@@ -7,4 +7,4 @@ Para leer las Notebook en red se puede seguir la tabla de Contenido.
 
 Tabla de contenido
 ==================
- * [Recomendaciones de Uso](http://nbviewer.jupyter.org/github/dlegor/Machine_Learning_con_Python_2017/blob/master/Code/README.ipynb)
+ * [Recomendaciones de Uso](http://nbviewer.jupyter.org/github/dlegor/Machine_Learning_con_Python_2017/blob/master/README.ipynb)
